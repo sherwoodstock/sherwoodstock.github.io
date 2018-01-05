@@ -3,17 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://sherwoodstock.com/categories/</loc>
+    <loc>https://sherwoodstock.com/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://sherwoodstock.com/</loc>
+    <loc>https://sherwoodstock.com/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://sherwoodstock.com/tags/</loc>
+    <loc>https://sherwoodstock.com/tags/</loc>
     <priority>0</priority>
   </url>
   
